@@ -1,6 +1,8 @@
-|[Introduction to Linux](/Linux_1.md)  |  |
+|[Introduction to Linux](Linux_1.md)  |  |
 |---|---|
-## 
+
+##
+
 # Day 1
 # Introduction to Linux 
 Linux is everywhere; Linux jobs are everywhere. There is a demand for Linux skills in just about every industry and job category on the planet, and not enough Linux talent to meet this growing demand. It’s also fun and rewarding to work with something that’s so much a part of our modern lives yet which so few people understand.
@@ -13,7 +15,9 @@ There are many directions after learning like:
 - big data
 - networking
 etc..
+
 #
+
 # Linux is a kernel (operating system)
 When most people refer to Linux, they are really referring to a combination of software called GNU/Linux, which defines the operating system. GNU is the free software that provides open source equivalents of many common UNIX commands (written in C language so it's portable).
 #
