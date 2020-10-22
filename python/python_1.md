@@ -1,4 +1,4 @@
-| [Introduction to Python and cmputer programming](../../lonely-journal/python/python_1.md)  | [Data Types ](../../lonely-journal/python/python_2.md)   |
+| [Introduction to Python and cmputer programming](python/python_1.md)  | [Data Types ](python/python_2.md)   |
 |---|---|
 ## 
 # Day 2
