@@ -1,4 +1,4 @@
-|[Introduction to Linux](lonely-journal/Linux/Linux_1.md)  |  |
+|[Introduction to Linux](../../lonely-journal/Linux/Linux_1.md)  |  |
 |---|---|
 ## 
 # Day 1
