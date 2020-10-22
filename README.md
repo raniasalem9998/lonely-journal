@@ -7,3 +7,7 @@ It has been a while so this is like the second week, I'll try to note about ever
 
 #### If you Dear reader had any comments please send me ASAP! :blush: 
 #### rania.salem9998@gmail.com
+
+
+- [Linux](lonely-journal/Linux.md)
+- [Python3](lonely-journal/python.md)

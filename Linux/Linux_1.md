@@ -1,4 +1,6 @@
-(setq markdown-css-paths '("/path/to/custom.css"))
+|[Introduction to Linux](lonely-journal/Linux/Linux_1.md)  |  |
+|---|---|
+## 
 # Day 1
 # Introduction to Linux 
 Linux is everywhere; Linux jobs are everywhere. There is a demand for Linux skills in just about every industry and job category on the planet, and not enough Linux talent to meet this growing demand. It’s also fun and rewarding to work with something that’s so much a part of our modern lives yet which so few people understand.
@@ -29,6 +31,7 @@ Take Linux and the GNU tools, add some user-facing applications like a web brows
 #
 # Linux Embraces the CLI (command line interface )
 Typically operating systems offer both GUI and CLI interfaces. However, most consumer operating systems (Windows, macOS) are designed to shield the user from the complexity of the CLI. The Linux community is different in that it positively celebrates the CLI for its power, speed and ability to accomplish a vast array of tasks with a single command line instruction.Furthermore, by learning the CLI, a user can easily be productive almost instantly on ANY distribution of Linux, reducing the amount of time needed to familiarize themselves with a system because of variations in a GUI.
+
 
 
 
