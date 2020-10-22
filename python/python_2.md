@@ -1,6 +1,6 @@
 | [Introduction to Python and cmputer programming](python_1.md)  | [Data Types ](python_2.md)   |
 |---|---|
-## 
+ 
 # Day 2
 # Data Types 
 ## The print() function
@@ -9,11 +9,11 @@ launch IDLE, create a new Python source file, fill it with this code, name the f
 print("Hello, World!")
 ```
 shows -> `Hello, World!`
-##
+
 ## A function is a separate part of the computer code able to:
 - cause some effect (e.g., send text to the terminal, create a file, draw an image, play a sound, etc.); this is something completely unheard of in the world of mathematics.
 - evaluate a value or some values (e.g., the square root of a value or the length of a given text); this is what makes Python's functions the relatives of mathematical concepts.
-##
+
 ## Where do the functions come from?
 
 - They may come from Python itself;(*it is built-in*); you don't have to do anything special.
@@ -31,7 +31,7 @@ they may come from one or more of Python's add-ons named *modules*; some of the 
 **string is delimited with quotes**
 Almost anything you put inside the quotes will be taken literally, not as code, but as *data*.
 
- ## What happens when Python encounters an invocation ?
+## What happens when Python encounters an invocation ?
 - First, Python checks if the name specified is legal (it browses its internal data in order to find an existing function of the name; if this search fails, Python aborts the code);
 - second, Python checks if the function's requirements for the number of arguments allows you to invoke the function in this way (e.g., if a specific function demands exactly two arguments, any invocation delivering only one argument will be considered erroneous, and will abort the code's execution);
 - third, Python leaves your code for a moment and jumps into the function you want to invoke; of course, it takes your argument(s) too and passes it/them to the function;
