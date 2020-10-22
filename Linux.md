@@ -1,3 +1,4 @@
+(setq markdown-css-paths '("/path/to/custom.css"))
 # Day 1
 # Introduction to Linux 
 Linux is everywhere; Linux jobs are everywhere. There is a demand for Linux skills in just about every industry and job category on the planet, and not enough Linux talent to meet this growing demand. It’s also fun and rewarding to work with something that’s so much a part of our modern lives yet which so few people understand.
