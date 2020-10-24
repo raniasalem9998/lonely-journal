@@ -1,4 +1,4 @@
-| [Introduction to Python and cmputer programming](python_1.md)  | [Data Types ](python_2.md)   |
+| [Introduction to Python and cmputer programming](python_1.md)  | [Data Types](python_2.md)   |
 |---|---|
  
 # Day 2
@@ -225,18 +225,22 @@ Use escape chareacters
 `print('I like "Monty Python"')`
 #### Boolean
 True/False 
+<br/>
 in numeric contexts:
-True is equal to 1 
-False is zaro
+<br/>
+- True is equal to 1 
+- False is zaro
+<br/>
 so...
-print(True > False) --> True
-print(True < False) --> False
+<br/>
+- print(True > False) --> True
+- print(True < False) --> False
 
 ## Python as a calculator
-`+, -` : add subtract.
-`*, **` : multiply, power.
-`/, //` : devide with dec (always), without dec (rounded).
-`%` : does it dev? a remainder left after the integer division.
+- `+, -` : add subtract.
+- `*, **` : multiply, power.
+- `/, //` : devide with dec (always), without dec (rounded).
+- `%` : does it dev? a remainder left after the integer division.
 when the numbers are int the result will be in int too.
 
 
