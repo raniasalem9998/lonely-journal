@@ -1,5 +1,4 @@
-| [Introduction to Python and cmputer programming](python_1.md)  | [Data Types ](python_2.md)   |
-|---|---|
+| [Introduction to Python and cmputer programming](python_1.md)  | [Data Types](python_2.md)   | [Variables](python_3.md) |
 
 ##
 

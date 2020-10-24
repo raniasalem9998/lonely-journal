@@ -10,4 +10,6 @@ It has been a while so this is like the second week, I'll try to note about ever
 
 
 - [Linux](Linux/Linux_1.md)
-- [Python3](python/python_1.md)
+- [Python3](python/python_1.md) Thanks to Python Institute
+- [UI/UX](UIUX/UI_1.md) 
+- [4Kids](4Kids/reading.md) Thanks to Nadi-alibaa

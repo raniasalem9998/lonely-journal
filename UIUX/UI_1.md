@@ -26,6 +26,7 @@ The brand should present your possition and be close to people at the same time.
 - 99designs.
 - Behance.(featchered panton).
 - Seed (color palette from pic).
+- Jekyll Themes.
 ## Simplicity is a good path to be in
 - Less cost when printing.
 - The trend.
