@@ -13,3 +13,5 @@ It has been a while so this is like the second week, I'll try to note about ever
 - [Python3](python/python_1.md) 
 - [UI/UX](UIUX/UI_1.md) 
 - [4Kids](4Kids/reading.md) 
+- [whatIdidForFun](whatIdidForFun.md)
+- [Espaniol](Espaniol/class01.md)

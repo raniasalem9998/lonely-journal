@@ -1,5 +1,4 @@
-|[Introduction to Linux](Linux_1.md)  |  |
-|---|---|
+|[Introduction to Linux](Linux_1.md)  | [Operating Systems](Linux_2.md)  |
 
 # Day 1
 # Introduction to Linux 

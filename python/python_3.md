@@ -1,4 +1,4 @@
-| [Introduction to Python and cmputer programming](python_1.md)  | [Data Types](python_2.md)   | [Variables](python_3.md) |
+| [Introduction to Python and cmputer programming](python_1.md)  | [Data Types](python_2.md)   | [Variables/input](python_3.md) |
 
 # Day 4
 # Variables
@@ -162,4 +162,137 @@ comment. #
 print("Hello!")
 ```
 > Good, responsible developers describe each important piece of code.
+# Day 6
+# The input() function
+The input() function is able to read data entered by the user and to return the same data to the running program.
+```python
+print("Tell me anything...")
+anything = input()
+print("Hmm...", anything, "... Really?")
+```
+- The program prompts the user to input some data from the console (most likely using a keyboard, although it is also possible to input data using voice or image);
+- note: you need to assign the result to a variable; this is crucial - missing out this step will cause the entered data to be lost;
+- the argument can be a message 
+```python
+anything = input("Tell me anything...")
+print("Hmm...", anything, "...Really?")
+```
+- **the result of the input() function is a string.**
+```python
+TypeError: unsupported operand type(s) for ** or pow(): 'str' and 'float'
+```
+- To specify te type of input :
+ - int(): takes one argument and convert it to int.
+ - float(): convert the arg to float.
+
+## Concatenation
+`string + string` : It simply concatenates (glues) two strings into one.
+## Replication
+The * (asterisk) sign, when applied to a string and number (or a number and string, as it remains commutative in this position) becomes a replication operator
+`string * number`
+`number * string`
+`"James" * 3` gives `"JamesJamesJames"`
+## Type conversion str()
+convert a number into a string.
+# LAB
+## Estimated time
+5-10 minutes
+
+## Level of difficulty
+Easy
+
+## Objectives
+becoming familiar with the inputting and outputting of data in Python;
+evaluating simple expressions.
+## Scenario
+Your task is to complete the code in order to evaluate the results of four basic arithmetic operations.
+
+The results have to be printed to the console.
+
+You may not be able to protect the code from a user who wants to divide by zero. That's okay, don't worry about it for now.
+
+Test your code - does it produce the results you expect?
+
+We won't show you any test data - that would be too simple.
+```python
+# input a float value for variable a here
+# input a float value for variable b here
+
+# output the result of addition here
+# output the result of subtraction here
+# output the result of multiplication here
+# output the result of division here
+
+print("\nThat's all, folks!")
+```
+```python
+# input a float value for variable a here
+a = int(input('inter a = '))
+# input a float value for variable b here
+b = int(input('inter b = '))
+# output the result of addition here
+print ('add = ' + str(a + b))
+# output the result of subtraction here
+print('sub = ' + str(a - b))
+# output the result of multiplication here
+print('multi = ' + str(a*b))
+# output the result of division here
+print('div = ' + str(a/b))
+print("\nThat's all, folks!")
+```
+# LAB
+## Estimated time
+20 minutes
+
+## Level of difficulty
+Intermediate
+
+## Objectives
+becoming familiar with the concept of numbers, operators and arithmetic operations in Python;
+understanding the precedence and associativity of Python operators, as well as the proper use of parentheses.
+## Scenario
+Your task is to complete the code in order to evaluate the following expression:
+
+
+```python
+x = float(input("Enter value for x: "))
+
+# put your code here
+y = 1/(x +( 1 /( x + 1 /( x + 1 / x) ) ) )
+print("y =", y)
+```
+# LAB 
+## Estimated time
+15-20 minutes
+
+## Level of difficulty
+Easy
+
+## Objectives
+improving the ability to use numbers, operators, and arithmetic operations in Python;
+using the print() function's formatting capabilities;
+learning to express everyday-life phenomena in terms of programming language.
+## Scenario
+Your task is to prepare a simple code able to evaluate the end time of a period of time, given as a number of minutes (it could be arbitrarily large). The start time is given as a pair of hours (0..23) and minutes (0..59). The result has to be printed to the console.
+
+For example, if an event starts at 12:17 and lasts 59 minutes, it will end at 13:16.
+```python
+hour = int(input("Starting time (hours): "))
+mins = int(input("Starting time (minutes): "))
+dura = int(input("Event duration (minutes): "))
+
+# put your code here
+```
+```python
+hour = int(input("Starting time (hours): "))
+mins = int(input("Starting time (minutes): "))
+dura = int(input("Event duration (minutes): "))
+
+# put your code here
+add_mins = ( (mins+dura) % 60 )
+add_hours = (int((mins+dura) / 60))
+print ('time = ' + str(hour+add_hours)+ ':' + str(mins + add_mins))
+```
+
+Don't worry about any imperfections in your code - it's okay if it accepts an invalid time - the most important thing is that the code produce valid results for valid input data.
 
