@@ -20,13 +20,15 @@ J -> jota ->  -->
 - buenas noches مساء الخير/وقت النوم
 - hola مرحبا
 - you could say buenas for noon and night.
+
 # DESPEDIDAS
 - Adi`os وداعا
-- hasta luego (غرغر - غو)
-- hasta man~ana اراك بعد قليل
-- hasta pronto اراك لاحقا
+- hasta luego (غرغر - غو) اراك لاحقا
+- hasta man~ana اراك غدا
+- hasta pronto اراك بعد قليل
 - hasta la vesta عندما تلتقي اعيننا
 - hasta nonca لا اريد رايتك
+
 ## Notes 
 - H is silent 
 - Hasta Man~ana , man~ana could mean early or tommorow.

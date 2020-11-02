@@ -162,7 +162,9 @@ comment. #
 print("Hello!")
 ```
 > Good, responsible developers describe each important piece of code.
+
 # Day 6
+
 # The input() function
 The input() function is able to read data entered by the user and to return the same data to the running program.
 ```python
@@ -194,6 +196,7 @@ The * (asterisk) sign, when applied to a string and number (or a number and stri
 `"James" * 3` gives `"JamesJamesJames"`
 ## Type conversion str()
 convert a number into a string.
+
 # LAB
 ## Estimated time
 5-10 minutes

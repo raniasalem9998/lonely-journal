@@ -1,4 +1,5 @@
 |[Introduction to Linux](Linux_1.md)  | [Operating Systems](Linux_2.md) |
+[navigatingTheLinuxDesctop](Linux_3.md)
 
 # Day 4
 # Operating Systems
@@ -42,4 +43,23 @@ Your chosen Linux distribution itself might be zero cost, but paying for support
 ![image](https://ndg-content-dev.s3.amazonaws.com/media/images/linux-essentials-v2/LEv2_2_2.png)
 
 - The second type of interface, the CLI, is a text-based interface to the computer, where the user types in a command and the computer then executes it. The CLI environment is provided by an application on the computer known as a terminal. ‌⁠​⁠​The terminal accepts what the user types and passes to a shell. The shell interprets what the user has typed into instructions that can be executed by the operating system. If output is produced by the command, then this text is displayed in the terminal. If problems with the command are encountered, then an error message is displayed.
+## Linux Distributions
+### Red Hat
+Red Hat started as a simple distribution that introduced the Red Hat Package Manager (RPM). The developer eventually formed a company around it, which tried to commercialize a Linux desktop for business. Over time, Red Hat started to focus more on the server applications, such as web- and file-serving and released Red Hat Enterprise Linux (RHEL), which was a paid service on a long release cycle.
+Because everything in Red Hat Enterprise Linux is open source, a project called CentOS came to be. It recompiled all the RHEL packages (converting their source code from the programming language they were written into language usable by the system) and gave them away for free.
+### SUSE
+SUSE, originally derived from Slackware, was one of the first comprehensive Linux distributions, it has many similarities to Red Hat Enterprise Linux.
+While SUSE Linux Enterprise contains proprietary code and is sold as a server product, openSUSE is a completely open, free version with multiple desktop packages similar to CentOS and Linux Mint.
+### Debian
+Debian is more of a community effort, and as such, also promotes the use of open source software and adherence to standards. Debian came up with its own package management system based on the .deb file format. While Red Hat leaves non-Intel and AMD platform support to derivative projects, Debian supports many of these platforms directly.
+**Ubuntu is the most popular Debian-derived distribution.**
+### Android
+Linux is a kernel, and many of the commands covered in this course are actually part of the GNU package. That is why some people insist on using the term GNU/Linux instead of Linux alone.
+
+Android, sponsored by Google, is the world’s most popular Linux distribution.
+![image](https://ndg-content-dev.s3.amazonaws.com/media/images/linux-essentials-v2/LEv2_2_3.png)
+
+## Embedded Systems
+Because of this flexibility, a significant number of device makers have used Linux as the operating system for their hardware products. Today we call these embedded systems because they are designed to do a specific task on hardware optimized for only that purpose.
+While consumers are familiar with embedded Linux entertainment devices like digital video recorders (DVRs) and “smart TVs,” the real impact of embedded Linux is just starting to be realized. The internet of things (IoT) is just ramping up with cheap, ubiquitous devices being deployed on everything from oil wells to solar generating farms. These networks of smart sensors and controllers enable engineers to adjust critical processes in real time while monitoring and reporting back to central control stations. As more processes are being monitored and more data is being integrated with machine learning and artificial intelligence (AI) we can anticipate gains in efficiency, safety and productivity only dreamed of by past generations.
 

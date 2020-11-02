@@ -1,5 +1,6 @@
-|[Introduction to Linux](Linux_1.md)  | [Operating Systems](Linux_2.md)  |
-
+|[Introduction to Linux](Linux_1.md)  | [Operating Systems](Linux_2.md) |
+[navigatingTheLinuxDesctop](Linux_3.md)
+This entry-level Linux course is offered by the Network Development Group (NDG).
 # Day 1
 # Introduction to Linux 
 Linux is everywhere; Linux jobs are everywhere. There is a demand for Linux skills in just about every industry and job category on the planet, and not enough Linux talent to meet this growing demand. It’s also fun and rewarding to work with something that’s so much a part of our modern lives yet which so few people understand.
