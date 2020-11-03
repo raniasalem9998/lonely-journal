@@ -1,7 +1,5 @@
-| [Introduction to Python and cmputer programming](python_1.md)  | [Data Types](python_2.md)   | [Variables/input](python_3.md) |
-
-##
-
+| [Introduction to Python and computer programming](python_1.md)  | [Data Types](python_2.md)   | [Variables/input](python_3.md) | [Booleanvalues,conditions,loops,listsandlogic](python_4.md)
+Thanks to python institute 
 # Day 2
 # Part1 -Basics-
 ## Introduction to Python and cmputer programming
