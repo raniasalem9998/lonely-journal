@@ -10,13 +10,13 @@ The commands it recognizes are very simple. We can imagine that the computer res
 A complete set of known commands is called an **instruction list (IL)**. Different types of computers may vary depending on the size of their ILs, and the instructions could be completely different in different models.
 ###### A program written in a high-level programming language is called a source code.
 
-##
+
 
 ## Ways of transforming a program from a high-level programming language into machine language:
 - **COMPILATION** : the source program is translated once; the program that performs this translation is called a compiler or translator.
 - **INTERPRETATION** : you (or any user of the code) can translate the source program each time it has to be run; the program performing this kind of transformation is called an interpreter, you cannot just distribute the source code as-is, because the end-user also needs the interpreter to execute it.
 
-##
+
 
 ## What does this all mean for you?
 - Python is an interpreted language. This means that it inherits all the described advantages and disadvantages. Of course, it adds some of its unique features to both sets.
@@ -53,7 +53,7 @@ Cython is intended to do - to automatically translate the Python code (clean and
 - IDLE is an acronym: Integrated Development and Learning Environment.
 - The first step is to create a new source file and fill it with code. Click File in the IDLE’s menu and choose New file.
 ![image](https://geek-university.com/wp-content/images/python/python_idle_new_file.jpg)
-## 
+
 As you can see, IDLE opens a new window for you. You can use it to write and amend your code.
 
 - **This is the editor window.**

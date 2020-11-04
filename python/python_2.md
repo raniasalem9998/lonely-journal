@@ -37,18 +37,6 @@ Almost anything you put inside the quotes will be taken literally, not as code, 
 - finally, Python returns to your code (to the place just after the invocation) and resumes its execution.
 
 # **LAB**
-## Estimated time
-5 minutes
-
-## Level of difficulty
-Very easy
-
-## Objectives
-becoming familiar with the print() function and its formatting capabilities;
-experimenting with Python code.
-Scenario
-The print() command, which is one of the easiest directives in Python, simply prints out a line to the screen.
-
 ## In your first lab:
 
 - use the print() function to print the line Hello, Python! to the screen. Use double quotes around the string;
@@ -134,15 +122,6 @@ Results->
 My-name-is-Monty-Python.
 ```
 # **LAB**
-## Estimated time
-5 minutes
-
-## Level of difficulty
-Very Easy
-
-## Objectives
-becoming familiar with the print() function and its formatting capabilities;
-experimenting with Python code.
 ## Scenario
 Modify the first line of code in the editor, using the sep and end keywords, to match the expected output. Use the two print() functions in the editor.
 
@@ -161,16 +140,6 @@ print("Python")
 ```
 
 # **LAB**
-## Estimated time
-5-10 minutes
-
-## Level of difficulty
-Easy
-
-## Objectives
-experimenting with existing Python code;
-discovering and fixing basic syntax errors;
-becoming familiar with the print() function and its formatting capabilities.
 ## Scenario
 We strongly encourage you to play with the code we've written for you, and make some (maybe even destructive) amendments. Feel free to modify any part of the code, but there is one condition - learn from your mistakes and draw your own conclusions.
 

@@ -29,15 +29,6 @@ print(var)
 2
 ```
 # LAB
-## Estimated time
-10 minutes
-
-## Level of difficulty
-Easy
-
-## Objectives
-becoming familiar with the concept of storing and working with different data types in Python;
-experimenting with Python code.
 ## Scenario
 Here is a short story:
 
@@ -66,16 +57,6 @@ print (totalApples)
 - `rem = rem % 10` to `rem %= 10` 
 you get it ..
 # LAB
-## Estimated time
-10 minutes
-
-## Level of difficulty
-Easy
-
-## Objectives
-becoming familiar with the concept of, and working with, variables;
-performing basic computations and conversions;
-experimenting with Python code.
 ## Scenario
 Miles and kilometers are units of length or distance.
 
@@ -113,15 +94,6 @@ miles_to_kilometers = miles * 1.61
 kilometers_to_miles = kilometers / 1.61
 ```
 # LAB 
-## Estimated time
-10-15 minutes
-
-## Level of difficulty
-Easy
-
-## Objectives
-becoming familiar with the concept of numbers, operators, and arithmetic operations in Python;
-performing basic calculations.
 ## Scenario
 Take a look at the code in the editor: it reads a float value, puts it into a variable named x, and prints the value of a variable named y. Your task is to complete the code in order to evaluate the following expression:
 
@@ -198,15 +170,6 @@ The * (asterisk) sign, when applied to a string and number (or a number and stri
 convert a number into a string.
 
 # LAB
-## Estimated time
-5-10 minutes
-
-## Level of difficulty
-Easy
-
-## Objectives
-becoming familiar with the inputting and outputting of data in Python;
-evaluating simple expressions.
 ## Scenario
 Your task is to complete the code in order to evaluate the results of four basic arithmetic operations.
 
@@ -244,15 +207,6 @@ print('div = ' + str(a/b))
 print("\nThat's all, folks!")
 ```
 # LAB
-## Estimated time
-20 minutes
-
-## Level of difficulty
-Intermediate
-
-## Objectives
-becoming familiar with the concept of numbers, operators and arithmetic operations in Python;
-understanding the precedence and associativity of Python operators, as well as the proper use of parentheses.
 ## Scenario
 Your task is to complete the code in order to evaluate the following expression:
 
@@ -265,16 +219,6 @@ y = 1/(x +( 1 /( x + 1 /( x + 1 / x) ) ) )
 print("y =", y)
 ```
 # LAB 
-## Estimated time
-15-20 minutes
-
-## Level of difficulty
-Easy
-
-## Objectives
-improving the ability to use numbers, operators, and arithmetic operations in Python;
-using the print() function's formatting capabilities;
-learning to express everyday-life phenomena in terms of programming language.
 ## Scenario
 Your task is to prepare a simple code able to evaluate the end time of a period of time, given as a number of minutes (it could be arbitrarily large). The start time is given as a pair of hours (0..23) and minutes (0..59). The result has to be printed to the console.
 
