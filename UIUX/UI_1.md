@@ -1,3 +1,4 @@
+[colors](UIUX/UI_1.md)|[introductiontoUI/UX](UIUX/UIUx.md)|[TimeManagement](UIUX/timeManagement.md)
 # COLORS - Lesson 10
 Thanks to AbbasAsmar90
 ## Whats is a brand 
