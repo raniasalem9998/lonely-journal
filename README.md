@@ -10,8 +10,8 @@ It has been a while so this is like the second week, I'll try to note about ever
 #### rania.salem9998@gmail.com
 
 
-- [Linux](Linux/Linux_1.md) **NEW**
-- [Python3](python/python_1.md) 
+- [Linux](Linux/Linux_1.md) 
+- [Python3](python/python_1.md) **NEW**
 - [UI/UX](UIUX/UI_1.md) **NEW**
 - [4Kids](4Kids/reading.md) 
 - [whatIdidForFun](whatIdidForFun.md) 
