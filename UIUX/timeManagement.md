@@ -1,4 +1,4 @@
-[colors](UIUX/UI_1.md)|[introductiontoUI/UX](UIUX/UIUx.md)|[TimeManagement](UIUX/timeManagement.md)
+[colors](UI_1.md)|[introductiontoUI/UX](UIUx.md)|[TimeManagement](timeManagement.md)|[presentation](presentation.md)
 # Time management
 ## How to choose what to do ?
 - what needs more time?

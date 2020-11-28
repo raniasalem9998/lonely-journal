@@ -1,4 +1,4 @@
-# Day 6
+
 ## Types of arduino
 - Arduino RS232.
 - Arduino Diecimila.

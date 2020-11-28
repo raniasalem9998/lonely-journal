@@ -1,5 +1,4 @@
-| [Introduction to Python and computer programming](python_1.md)  | [Data Types](python_2.md)   | [Variables/input](python_3.md) | [Booleanvalues,conditions,loops,listsandlogic](python_4.md)
-# Day 2
+| [Introduction to Python and computer programming](python_1.md)  | [Data Types](python_2.md)   | [Variables/input](python_3.md) | [Booleanvalues,conditions,loops,listsandlogic](python_4.md) |[Lists](python_5.md)|[functions](python_6.md)|[tuple](python_7.md)|[modles](python_8.md)
 # Data Types 
 ## The print() function
 launch IDLE, create a new Python source file, fill it with this code, name the file and save it. Now run it. If everything goes okay, you'll see the rhyme's line in the IDLE console window.

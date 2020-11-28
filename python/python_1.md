@@ -1,6 +1,5 @@
-| [Introduction to Python and computer programming](python_1.md)  | [Data Types](python_2.md)   | [Variables/input](python_3.md) | [Booleanvalues,conditions,loops,listsandlogic](python_4.md)
+| [Introduction to Python and computer programming](python_1.md)  | [Data Types](python_2.md)   | [Variables/input](python_3.md) | [Booleanvalues,conditions,loops,listsandlogic](python_4.md) |[Lists](python_5.md)|[functions](python_6.md)|[tuple](python_7.md)|[modles](python_8.md)
 ### Thanks to python institute 
-# Day 2
 # Part1 -Basics-
 ## Introduction to Python and cmputer programming
 A computer, even the most technically sophisticated, is devoid of even a trace of intelligence. You could say that it is like a well-trained dog - it responds only to a predetermined set of known commands.
